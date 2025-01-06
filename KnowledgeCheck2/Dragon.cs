@@ -10,10 +10,7 @@ namespace KnowledgeCheck2
     {
         public string Color {  get; set; }
 
-        
-
-
-
+       
     }
 
     public class Wyvern : Dragon
